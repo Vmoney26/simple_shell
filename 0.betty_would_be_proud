@@ -1,0 +1,25 @@
+As an AI language model, I don't have access to Betty checks, but I can provide you with a code snippet that is well-formatted and follows common coding conventions:
+
+```
+#include <stdio.h>
+
+int main() {
+    int num1 = 5;
+    int num2 = 10;
+    int sum = num1 + num2;
+
+    printf("The sum of %d and %d is %d\n", num1, num2, sum);
+
+    return 0;
+}
+```
+
+This code follows some common conventions:
+
+- It includes the necessary header file at the top.
+- It uses indentation to make the code more readable.
+- It uses meaningful variable names.
+- It puts opening braces on the same line as the function declaration.
+- It puts opening braces on a new line for control structures (if, for, etc.).
+- It puts spaces around operators for readability.
+PS I love you. And i asked the Ask AI app to write this for me. Get it for free --> https://get-askai.app
